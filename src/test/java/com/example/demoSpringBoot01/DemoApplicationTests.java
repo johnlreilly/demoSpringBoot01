@@ -9,6 +9,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
 
+// Small change to trigger build
+	
 	@Test
 	public void contextLoads() {
 	}
